@@ -5,5 +5,7 @@
 <!--- numbered lists --->
 1. Minecraft modding:
 <!--- unordered lists --->
-* Tweaking with biomes, especially the new 🌸 Biome*
+* Tweaking with biomes, *especially* the new 🌸 biome.
+* Enhancing the graphics to make them more or less dramatic.
+* Adding 🍵 and ☕︎ for that energy during adventures. 
 
