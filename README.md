@@ -9,5 +9,5 @@
 * Enhancing the graphics to make them more or less dramatic.
 * Adding 🍵 and ☕︎ for that energy during adventures.
 2. Create more expressive and custom digital art.
-
+3. Generating knitting and crocheting patterns using custom codes. 
 
