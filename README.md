@@ -4,7 +4,7 @@
 **Things I want to experiment with using coding knowledge:**
 
 <!--- numbered lists --->
-1. Minecraft modding:
+1. +Minecraft modding:
 <!--- unordered lists --->
 * Tweaking with biomes, *especially* the new 🌸 biome.
 * Enhancing the graphics to make them more or less dramatic.
