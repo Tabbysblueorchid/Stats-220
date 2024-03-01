@@ -13,7 +13,7 @@
 3. ### *Generating knitting and crocheting patterns using custom codes.*
 4. ### *Mixing colours/pigments using coding to make paint mixing easier🎨* 
 
-This README file is *mostly* about art... it has to have some visuals ;)
+<mark>This README file is *mostly* about art... it has to have some visuals ;)<mark>
 
 ↓↓↓↓
 
