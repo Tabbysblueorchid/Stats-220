@@ -17,4 +17,4 @@ This README file is *mostly* about art and builds... it has to have some visuals
 
 ↓↓↓↓
 
-[Open for a quick zoology lesson😼](https://static.wikia.nocookie.net/minecraft/images/2/28/CatsNew.gif/revision/latest?cb=20191005223300)
+[Open for a quick zoology lesson😼]([https://static.wikia.nocookie.net/minecraft/images/2/28/CatsNew.gif/revision/latest?cb=20191005223300](https://static.wikia.nocookie.net/minecraft/images/2/28/CatsNew.gif/revision/latest?cb=20191005223300)https://static.wikia.nocookie.net/minecraft/images/2/28/CatsNew.gif/revision/latest?cb=20191005223300)
